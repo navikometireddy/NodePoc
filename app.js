@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const port = 3000; // Choose a port number
 // Service Account Key File
-const keyFile = './nodepoc-388514-7a1361ee7159.json';
+const keyFile = './creds.json';
 
 // Google Analytics View ID
 const viewId = '291503426';
